@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Sid
 
 - 🔭 I’m currently working on Django, and a Deepfake project.
 - 🌱 I’m currently learning Cloud platforms, Node.js
