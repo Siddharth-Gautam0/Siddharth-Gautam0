@@ -1,10 +1,8 @@
 <img alt="banner" src="zS.png">
 
-### Hi there 👋, I'm Sid
-
 - 🔭 I’m currently working on Django, and a Deepfake project.
-- 🌱 I’m currently learning Cloud platforms, Node.js
-- 💬 Ask me about Python
+- 🌱 I’m currently learning Maven
+- 💬 Ask me about *anything in tech*
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/siddharth-gautam-544b91181/"> LinkedIn</a>
 - ⚡ Fun fact: I can crack over 40 joints in my body
 
