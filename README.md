@@ -1,3 +1,5 @@
+<img alt="banner" src="zS.jpg">
+
 ### Hi there 👋, I'm Sid
 
 - 🔭 I’m currently working on Django, and a Deepfake project.
