@@ -1,4 +1,4 @@
-<img alt="banner" src="zS.jpg">
+<img alt="banner" src="zS.png">
 
 ### Hi there 👋, I'm Sid
 
