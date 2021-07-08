@@ -1,5 +1,7 @@
 <img alt="banner" src="zS.png">
 
+<h1 align="center">I'm a Programmer, a reader, and a chess enthusiast. <br> I like to explore new technologies, and build stuff from whatever tools I can get my hands on.</h1>
+
 - 🔭 I’m currently working on Django, and a Deepfake project.
 - 🌱 I’m currently learning Maven
 - 💬 Ask me about *anything in tech*
