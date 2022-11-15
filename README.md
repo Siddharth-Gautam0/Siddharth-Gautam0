@@ -2,7 +2,7 @@
 
 <h1 align="center">I'm a Programmer, a reader, and a chess enthusiast. <br> I like to explore new technologies, and build stuff from whatever tools I can get my hands on.</h1>
 
-- 🔭 I’m currently working on Django, and a Deepfake project.
+- 🔭 I’m currently working on Swift and React Native.
 - 🌱 I’m currently learning Maven
 - 💬 Ask me about *anything in tech*
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/siddharth-gautam-544b91181/"> LinkedIn</a>
