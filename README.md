@@ -2,11 +2,9 @@
 
 <h1 align="center">I'm a Programmer, a reader, and a chess enthusiast. <br> I like to explore new technologies, and build stuff from whatever tools I can get my hands on.</h1>
 
-- 🔭 I’m currently working on Swift and React Native.
-- 🌱 I’m currently learning Maven
-- 💬 Ask me about *anything in tech*
+- 🔭 I’m currently working on React, Swift and React Native.
+- 🌱 I’m currently learning Spring Boot.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/siddharth-gautam-544b91181/"> LinkedIn</a>
-- ⚡ Fun fact: I can crack over 40 joints in my body
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
